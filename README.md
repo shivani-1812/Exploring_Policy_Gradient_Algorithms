@@ -46,7 +46,7 @@ Results highlight trade-offs between stability, convergence speed, and sample ef
 - **Prioritized Sweeping**: Significantly reduced training time in discrete domains. Struggled in continuous settings.  
 - **One-Step Actor-Critic**: Balanced stability and efficiency, learning incrementally with TD updates.  
 
-Figures include learning curves, value function estimates, and policy visualizations.
+📄 [Full Project Report](report/RL_project_report.pdf)
 
 ## Implementation Details
 - Frameworks: Python, NumPy, PyTorch (for neural network policies & baselines).  
